@@ -411,7 +411,7 @@
                             t.showPassword = s
                         }, expression: "showPassword"
                     }
-                }, [s("div", {staticClass: "iptBox"}, [s("div", {staticClass: "iptTitle"}, [t._v("关注公众号"), s("br"), t._v("点击蓝色字体获取识别码")]), s("input", {
+                }, [s("div", {staticClass: "iptBox"}, [s("div", {staticClass: "iptTitle"}, [t._v("添加微信获取"), s("br"), t._v("17713088356")]), s("input", {
                     directives: [{
                         name: "model",
                         rawName: "v-model",
